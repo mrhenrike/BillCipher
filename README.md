@@ -1,5 +1,5 @@
 # About BillCipher 2.3
-Information Gathering tool for a Website or IP address, use some ideas from <a href="http://bit.ly/2KU7BMF" target="_blank"><span style="color: blue">Devploit</span></a>.
+Information Gathering tool for a Website or IP address, use some ideas from <span style="color: blue">Devploit</span>.
 BillCipher can work on any operating system if they have and support Python 2, Python 3, and Ruby.
 
 # Features
@@ -27,7 +27,7 @@ BillCipher can work on any operating system if they have and support Python 2, P
  # Install and Run in Linux
     sudo apt update && sudo apt install ruby python python-pip python3 python3-pip
     sudo apt install httrack whatweb
-    git clone https://github.com/GitHackTools/BillCipher
+    git clone https://github.com/mrhenrike/BillCipher
     cd BillCipher
     pip install -r requirements.txt
     pip3 install -r requirements.txt
@@ -45,33 +45,17 @@ Download and run Git setup file from <a href="https://Git-scm.com" target="_blan
 
 Afther that, Run Command Propmt and enter these commands:
 
-    git clone https://github.com/GitHackTools/BillCipher
+    git clone https://github.com/mrhenrike/BillCipher
     cd BillCipher
     pip install -r requirements.txt
     pip3 install -r requirements.txt
     python3 billcipher.py
-
-# Notes
-BillCipher uses some idea from <a href="http://bit.ly/2KU7BMF" target="_blank"><span style="color: blue">Devploit</span></a> and it's use HackerTarget API.
-
-All the tools: <a href="http://bit.ly/2ohlBa5" target="_blank"><span style="color: blue">Breacher</span></a>, <a href="http://bit.ly/2F6ioDW" target="_blank"><span style="color: blue">Infoga</span></a>, <a href="http://bit.ly/2KAJC9m" target="_blank"><span style="color: blue">HatCloud</span></a> and <a href="http://bit.ly/2LCZ18X" target="_blank"><span style="color: blue">Sublist3r</span></a> are tools from other developers, not programmed by <a href="https://github.com/githacktools" target="_blank"><span style="color: blue">GitHackTools</span></a>.
 
 # Screenshots (Older version)
 ![Run BillCipher on Parrot Security OS](https://3.bp.blogspot.com/-8DvH0NPGLPM/W3UCK9hqF3I/AAAAAAAANRY/MBI0XiK8WnEzVB13IZdpWhhQgKlYfNDdACLcBGAs/s1600/BillCipher%2BParrotSec.png)
 ![Run BillCipher on Kali Linux](https://2.bp.blogspot.com/-g-BQCqbWjQ8/W3UCJWgbVgI/AAAAAAAANRU/7NWPE4APngANHIp-cLcQzNQTFBEF3eo-QCLcBGAs/s1600/BillCipher%2BKaliLinux.png)
 ![Run BillCipher on Windows 10](https://4.bp.blogspot.com/-gFl2fqik788/W3UCJT1CNmI/AAAAAAAANRQ/90nTvfAQXGoFYRyMG1x5JLzRu_Y0INqWwCLcBGAs/s1600/BillCipher%2BWindows%2B10.PNG)
 
-# Thank you <a href="https://githacktools.blogspot.com" target="_blank"><span style="color: blue">GitHackTools</span></a> (myself) for programming this tool
-
-# Contact to coder
- * Website: <a href="https://githacktools.blogspot.com" target="_blank"><span style="color: blue">GitHackTools.blogspot.com</span></a>
- * Twitter: <a href="https://twitter.com/SecureGF" target="_blank"><span style="color: blue">@SecureGF</span></a>
- * Facebook: <a href="https://githacktools.blogspot.com" target="_blank"><span style="color: blue">@GitHackTools</span></a>
- * Google Plus: <strong>It's gone.</strong>
-
-# What's new in 2.3
- * Fixed bug! <a href="https://github.com/GitHackTools/BillCipher/pull/2" target="_blank"><span style="color: blue">Here</span></a>
- * Fixed bug "Not found subbrute module of Sublist3r"
  
 # To-do list
  * Create a own version for the Hacker's OS like Kali Linux, ParrotSec (Kali version)
